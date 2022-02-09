@@ -66,4 +66,4 @@ To execute the project, it will be necessary to install / use the following appl
 * NPM
 
 ## Technologies
-* HTML, CSS/SASS, Javascript and ReactJS/NextJS.
+* HTML, CSS/SASS, Javascript/Typescript and ReactJS/NextJS.
