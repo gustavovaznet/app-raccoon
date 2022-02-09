@@ -1,0 +1,15 @@
+//WRAPPER CSS
+.wrapper{
+    display: flex;    
+    main{
+        flex: 1;
+    }
+}
+
+//MEDIA QUERIES
+//LARGE DEVICES
+@media (max-width: 1600px) { 
+    .wrapper{
+        display: block;
+    }
+}
